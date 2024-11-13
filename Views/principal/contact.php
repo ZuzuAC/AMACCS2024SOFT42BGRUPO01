@@ -7,7 +7,7 @@
             <h1 class="h1">Contáctenos</h1>
             <p>
                 Proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-                Lorem ipsum dolor sit amet.
+                Lorem ipsum dolor sit amet.hola Azu
             </p>
         </div>
     </div>
